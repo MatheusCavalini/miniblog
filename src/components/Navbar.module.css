@@ -16,6 +16,11 @@
 }
 
 .links_list {
+    display: flex;
+    list-style: none;
+}
+
+.links_list li {
     margin-right: 1em;
 }
 
